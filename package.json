@@ -16,8 +16,7 @@
     "data uri"
   ],
   "dependencies": {
-    "request": ">= 2.9.100",
-    "imagemagick": ">= 0.1.2"
+    "request": ">= 2.9.100"
   },
   "analyze": true,
   "subdomain": "image2datauri",

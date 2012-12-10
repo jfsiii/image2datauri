@@ -1,5 +1,4 @@
 var fs      = require('fs');
-var im      = require('imagemagick');
 var url     = require('url');
 var http    = require('http');
 var request = require('request');
