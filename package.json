@@ -1,6 +1,6 @@
 {
   "name": "image2datauri",
-  "version": "0.0.3-1",
+  "version": "0.0.5",
   "author": "JFSIII",
   "description": "Pass in an image URL, get back a data URI",
   "scripts": {
